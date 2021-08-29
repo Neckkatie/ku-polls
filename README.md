@@ -1,4 +1,4 @@
-# ku-polls
+# KU Polls
 
 
 ### Project Documents
